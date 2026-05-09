@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: If you use this work, please cite the following paper.
+authors:
+  - family-names: "Author 1"
+    given-names: "Firstname M."
+    orcid: "XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Author 2"
+    given-names: "Firstname M."
+    orcid: "XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Author 3"
+    given-names: "Firstname M."
+    orcid: "XXXX-XXXX-XXXX-XXXX"
+title: "The Responsibility Gap in Generative AI: An Axiomatic Analysis of Distributed Liability and Governance Mechanisms"
+version: 1.0.0
+date-released: 2026-05-08
+journal: "Sustainability"
+publisher: "MDPI"
+doi: "https://doi.org/10.17605/OSF.IO/XXXXXX"
+license: CC-BY-4.0
+url: "https://github.com/[your-username]/genai-axiomatic-liability"
+preferred-citation:
+  type: article-journal
+  authors:
+    - family-names: "Author 1"
+      given-names: "Firstname M."
+    - family-names: "Author 2"
+      given-names: "Firstname M."
+    - family-names: "Author 3"
+      given-names: "Firstname M."
+  title: "The Responsibility Gap in Generative AI: An Axiomatic Analysis of Distributed Liability and Governance Mechanisms"
+  journal: "Sustainability"
+  volume: ""
+  issue: ""
+  start-page: ""
+  end-page: ""
+  date-published: 2026
+  doi: "https://doi.org/10.17605/OSF.IO/XXXXXX"
