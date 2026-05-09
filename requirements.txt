@@ -1,0 +1,10 @@
+Core logical validation
+sympy>=1.12
+Data analysis & case processing
+pandas>=2.0.0numpy>=1.24.0
+Statistical modeling
+scipy>=1.10.0
+Visualization (optional, for figure replication)
+matplotlib>=3.7.0seaborn>=0.12.0
+Unit testing
+pytest>=7.4.0
